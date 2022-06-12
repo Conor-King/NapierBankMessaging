@@ -1,0 +1,42 @@
+﻿S123456789
+
++447561017503
+This is the message text for the sms message LOL. I am also testing the textspeak abbreviations ROFL.                     ----------     140
+
+S123456789
+
++447561017503
+This is the message text for the sms message LOL. I am also testing the textspeak abbreviations ROFL.                     ----------     140
+
+T123456789
+
+@(15 characters)
+This is the message text for the sms message LOL. #Trendy @Conor #WishThisWorks this is 140 #WishThisWorks 140 140 140 140 #EndOfTheLineeeee
+
+E123456789
+
+Test-mail@email.com
+this is 20 character
+This is the start of the email message text URL's should be quarantined like this one. www.google.com and also this one http://www.something.com. This is some extra text hi mom.
+
+E123456789
+
+Test-mail@email.com
+SIR 22/22/22
+Sort Code: 99-99-99
+Nature of Incident: Staff Attack
+There was an attack at the store a member of staff was injured. Please help.
+New Line :) www.google.com
+And another
+one more https://www.hi.co.uk
+
+E123456789
+
+Test-mail@email.com
+SIR 22/22/22
+Sort Code: 99-99-99
+Nature of Incident: Staff Attack
+There was an attack at the store a member of staff was injured. Please help.
+New Line :) www.google.com
+And another
+one more https://www.hi.co.uk

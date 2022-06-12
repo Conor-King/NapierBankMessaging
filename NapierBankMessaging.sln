@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NapierBankMessaging", "NapierBankMessaging\NapierBankMessaging.csproj", "{A7720A64-53D9-4E6B-8592-4504F9EC06DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBMUnitTests", "NBMUnitTests\NBMUnitTests.csproj", "{865A453A-7A88-4393-A55D-357C7DDC38BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7720A64-53D9-4E6B-8592-4504F9EC06DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7720A64-53D9-4E6B-8592-4504F9EC06DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7720A64-53D9-4E6B-8592-4504F9EC06DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7720A64-53D9-4E6B-8592-4504F9EC06DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865A453A-7A88-4393-A55D-357C7DDC38BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865A453A-7A88-4393-A55D-357C7DDC38BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865A453A-7A88-4393-A55D-357C7DDC38BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865A453A-7A88-4393-A55D-357C7DDC38BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
